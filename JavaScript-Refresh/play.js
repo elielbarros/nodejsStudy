@@ -168,3 +168,9 @@ setTimeout(() => {
         console.log(text2);
     });
 }, 2000);
+
+// --------------------------- Aula 21 Template Literals ---------------------------
+const exampleName = 'Eliel';
+
+// Using backticks
+console.log(`${exampleName} is studying NodeJS`);
